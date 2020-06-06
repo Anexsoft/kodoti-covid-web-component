@@ -26,5 +26,11 @@ To build your library, run the next command. It's going to be created as dist pa
 npm run build
 ```
 
+## Video
+You can check our video of this repository following the next link
+https://studio.youtube.com/video/43OlR4YEWUc
+
 ## Credits
 Our component created for this lesson is possible thanks to **covid19api.com**.
+
+https://kodoti.com
